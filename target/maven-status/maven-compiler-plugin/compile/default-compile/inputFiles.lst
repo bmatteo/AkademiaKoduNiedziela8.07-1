@@ -1,0 +1,10 @@
+/home/matiz/codeAcademy/soapProvider/src/main/java/pl/academy/code/endpoints/CountryEndpoint.java
+/home/matiz/codeAcademy/soapProvider/src/main/java/pl/academy/code/Application.java
+/home/matiz/codeAcademy/soapProvider/src/main/java/pl/academy/code/repositories/CountryRepository.java
+/home/matiz/codeAcademy/soapProvider/src/main/java/pl/academy/code/countries/Country.java
+/home/matiz/codeAcademy/soapProvider/src/main/java/pl/academy/code/countries/Currency.java
+/home/matiz/codeAcademy/soapProvider/src/main/java/pl/academy/code/countries/package-info.java
+/home/matiz/codeAcademy/soapProvider/src/main/java/pl/academy/code/ApplicationConfiguration.java
+/home/matiz/codeAcademy/soapProvider/src/main/java/pl/academy/code/countries/GetCountryRequest.java
+/home/matiz/codeAcademy/soapProvider/src/main/java/pl/academy/code/countries/ObjectFactory.java
+/home/matiz/codeAcademy/soapProvider/src/main/java/pl/academy/code/countries/GetCountryResponse.java
